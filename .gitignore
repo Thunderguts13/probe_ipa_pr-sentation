@@ -1,0 +1,11 @@
+.DS_Store
+.svn
+.idea
+*.iml
+log/*.log
+tmp/**
+node_modules/
+.sass-cache
+css/reveal.min.css
+js/reveal.min.js
+npm-debug.log
